@@ -17,4 +17,4 @@ This software is open-source under expanded **BSD License 2.0**. Read its conten
 For the parts of a source code, you can contact me on the email listed on my GitHub profile.
 
 #
-For Serbian README translation, check out README_srb.md
+For Serbian README translation, check out **README_srb.md**

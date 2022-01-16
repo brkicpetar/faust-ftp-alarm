@@ -10,5 +10,5 @@ The software is tracking file changes in a folder.
 - The software can work in background, so it does not interfere with other work done on the same PC.
 
 ##
-This software is open-source under expanded **BSD License 2.0**. Read its content in **LICENSE** file.  
-If you are not familiar with C# but still want to make changes, reach me out on the email provided on my GitHub profile **README**.
+This software is open-source under expanded **BSD License 2.0**. Read its content in **LICENSE** file.
+For the parts of a source code, you can contact me on the email listed on my GitHub profile.
